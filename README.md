@@ -29,12 +29,7 @@ p5.js 화면의 **세로 슬라이더**를 움직이면 Web Serial로 Arduino Un
 | 가변저항 | 양 끝 5 V · GND, 가운데 → A0 |
 | I2C LCD 16×2 | SDA → A4, SCL → A5, VCC → 5 V, GND → GND |
 
-## 실행 방법
 
-1. Arduino IDE 라이브러리 관리자에서 `TaskScheduler`, `LiquidCrystal_I2C` 설치
-2. `led_pwm.ino` 업로드 (시리얼 모니터는 닫아 둠)
-3. Chrome 또는 Edge에서 p5 스케치 실행 → **Arduino 연결 / 해제** → 포트 선택
-4. 슬라이더를 위아래로 움직이면 LED2 밝기가 바뀜
 
 ---
 
