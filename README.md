@@ -13,6 +13,9 @@ https://github.com/user-attachments/assets/54988f19-367b-409e-805e-c131dfe460ce
 
 ## 구성
 
+<img width="1945" height="1354" alt="PotButtonLCD (1)_bb" src="https://github.com/user-attachments/assets/ae15d803-0cd7-4a31-aa9b-5f647ba620f0" />
+
+
 | 파일 | 내용 |
 | --- | --- |
 | `index.html` | p5.js 페이지 |
