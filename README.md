@@ -5,6 +5,12 @@ p5.js 화면의 **세로 슬라이더**를 움직이면 Web Serial로 Arduino Un
 
 ![실행 화면](images/screenshot.png)
 
+
+
+https://github.com/user-attachments/assets/54988f19-367b-409e-805e-c131dfe460ce
+
+
+
 ## 구성
 
 | 파일 | 내용 |
